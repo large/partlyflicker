@@ -1,16 +1,7 @@
 # partlyflicker
 
-A new Flutter project.
+Shows fl_chart ( https://github.com/imaNNeo/fl_chart ) with stacked bars.
+It is correct in Flutter 3.7.12
+It shows brown bars in Flutter 3.11.xx pre (Master) channel
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Unknown reason so far
